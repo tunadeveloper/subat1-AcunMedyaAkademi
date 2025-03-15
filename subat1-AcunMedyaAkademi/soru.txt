@@ -1,0 +1,4 @@
+1️-)Dizi (Array) nedir? Ne işe yarar? Gerçek hayattan bir örnek verin.
+
+Birden fazla değeri tek bir değişkende tutarak kodun daha düzenli olmasını sağlar.
+Bir sınıftaki öğrencilerin adlarını saklamak için bir dizi kullanılabilir.
